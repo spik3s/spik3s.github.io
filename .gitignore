@@ -1,9 +1,2 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-.idea/.name
-
-.idea/workspace.xml
-
-*.xml
-
-.idea/spik3s.github.io.iml
+_site
+.sass-cache
