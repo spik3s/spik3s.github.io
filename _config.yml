@@ -16,9 +16,3 @@ prose:
   siteurl: "http://spik3s.com"
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
- 
