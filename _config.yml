@@ -1,8 +1,7 @@
 # Site settings
 title: Spik3s Design
 email: web@spik3s.com
-description: >
-  Web design, programming & DIY jamming
+description: Web design, programming & DIY
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://spik3s.com" # the base hostname & protocol for your site
 twitter_username: spik3s
